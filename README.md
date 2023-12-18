@@ -2,7 +2,7 @@
 
 ## Overview:
 
-### This project focuses on predicting the sale prices of bulldozers using machine learning techniques, specifically employing the RandomForestRegressor model. The aim is to leverage characteristics and historical examples to estimate the future sale prices of bulldozers accurately.
+### *This project focuses on predicting the sale prices of bulldozers using machine learning techniques, specifically employing the RandomForestRegressor model. The aim is to leverage characteristics and historical examples to estimate the future sale prices of bulldozers accurately.*
 
 #### Datasets:
 
