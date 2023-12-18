@@ -20,7 +20,7 @@ Data preprocessing involved converting categorical data into a NumPy category an
 
 #### Characteristics and Features
 
-** The dataset encompasses a wide range of characteristics and features, including: **
+*The dataset encompasses a wide range of characteristics and features, including:*
 
 * Machine configuration
 
