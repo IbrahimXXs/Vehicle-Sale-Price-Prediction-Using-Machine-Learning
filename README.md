@@ -18,7 +18,7 @@ The dataset includes various features such as SalesID, MachineID, ModelID, YearM
 
 Data preprocessing involved converting categorical data into a NumPy category and filling missing values based on the median.
 
-#### Characteristics and Features
+#### Characteristics and Features:
 
 *The dataset encompasses a wide range of characteristics and features, including:*
 
@@ -40,7 +40,7 @@ Data preprocessing involved converting categorical data into a NumPy category an
 
 *And many more
 
-#### Libraries Used
+#### Libraries Used:
 
 The project utilized the following Python libraries:
 
@@ -54,11 +54,11 @@ The project utilized the following Python libraries:
 
 * The RandomForestRegressor model was employed to make predictions about bulldozer sale prices. The model was fine-tuned using RandomizedSearchCV to optimize its performance.
 
-#### Usage
+#### Usage:
 
 To explore the project, clone the repository and run the provided Python script. Make sure to have the necessary libraries installed
 
-#### License
+#### License:
 
 This Project  Was Fully Coded by Ibrahim Sarraj
 
